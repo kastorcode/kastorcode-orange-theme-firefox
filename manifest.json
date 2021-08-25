@@ -1,0 +1,53 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "KastorCode Orange Theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(227, 76, 15)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(41, 20, 8)",
+      "tab_background_text": "rgb(227, 76, 15)",
+      "toolbar_field": "rgba(255, 255, 255, 0.2)",
+      "toolbar_field_text": "rgb(41, 20, 8)",
+      "tab_line": "rgba(255, 255, 255, 0)",
+      "popup": "rgb(41, 20, 8)",
+      "popup_text": "rgb(227, 76, 15)",
+      "button_background_active": "rgba(0, 0, 0, 0.2)",
+      "button_background_hover": "rgba(255, 255, 255, 0.2)",
+      "icons_attention": "rgb(0, 255, 255)",
+      "icons": "rgb(255, 255, 255)",
+      "popup_highlight_text": "rgb(227, 76, 15)",
+      "popup_highlight": "rgb(41, 20, 8)",
+      "sidebar_border": "rgb(227, 76, 15)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_highlight": "rgb(227, 76, 15)",
+      "sidebar_text": "rgb(255, 255, 255)",
+      "sidebar": "rgb(41, 20, 8)",
+      "tab_selected": "rgb(41, 20, 8)",
+      "tab_text": "rgb(255, 255, 255)",
+      "toolbar_bottom_separator": "rgb(41, 20, 8)",
+      "toolbar_field_border_focus": "rgb(227, 76, 15)",
+      "toolbar_field_border": "rgb(41, 20, 8)",
+      "toolbar_field_focus": "rgba(41, 20, 8, 0.1)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
+      "toolbar_field_highlight": "rgb(227, 76, 15)",
+      "toolbar_field_separator": "rgb(41, 20, 8)",
+      "toolbar_top_separator": "rgb(41, 20, 8)",
+      "tab_loading": "rgba(255, 255, 255, 0)"
+    }
+  }
+}
